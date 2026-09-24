@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800">
+  <rect width="800" height="800" fill="#f6f0e6"/>
+  <rect x="150" y="90" width="500" height="500" rx="48" fill="#be185d"/>
+  <rect x="270" y="200" width="260" height="300" rx="24" fill="#fff"/><circle cx="340" cy="300" r="28" fill="#e11d48"/><circle cx="410" cy="330" r="28" fill="#f59e0b"/><circle cx="470" cy="290" r="28" fill="#16a34a"/>
+  <text x="400" y="680" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="40" font-weight="700" fill="#1c1916">Caramelos de menta 100 g</text>
+</svg>

@@ -1,0 +1,9 @@
+{
+  "name": "Menchy",
+  "short_name": "Menchy",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f3eee6",
+  "theme_color": "#241f1a",
+  "lang": "es"
+}

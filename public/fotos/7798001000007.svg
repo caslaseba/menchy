@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800">
+  <rect width="800" height="800" fill="#f6f0e6"/>
+  <rect x="150" y="90" width="500" height="500" rx="48" fill="#c2410c"/>
+  <rect x="355" y="150" width="90" height="46" rx="12" fill="#fff"/><rect x="330" y="196" width="140" height="300" rx="28" fill="#fff"/><rect x="358" y="240" width="84" height="190" rx="16" fill="#d5eef8"/>
+  <text x="400" y="680" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="40" font-weight="700" fill="#1c1916">Aceite de girasol 900 ml</text>
+</svg>
