@@ -1,0 +1,20 @@
+{
+  "name": "menchy",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Menchy: gestión de almacén, stock y ventas",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "html5-qrcode": "^2.3.8",
+    "multer": "^2.4.0",
+    "qrcode": "^1.5.4",
+    "selfsigned": "^2.4.1"
+  }
+}
